@@ -9,7 +9,7 @@
 - Validate if fields are filled (Send error message, vanish after 3 sec)
 - Clear fields after sucess
 - Store Class: Handles Storage
-- Bootstrap 4 for quick stylization
+- Bootstrap 4 CSS for quick stylization
 
 
 # USAGE
